@@ -1,0 +1,84 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "bans.luxiousnetwork.com" }
+      ],
+      "destination": "https://www.luxiousnetwork.com/punishments/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "forum.luxiousnetwork.com" }
+      ],
+      "destination": "https://www.luxiousnetwork.com/forum/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "forums.luxiousnetwork.com" }
+      ],
+      "destination": "https://www.luxiousnetwork.com/forum/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "vote.luxiousnetwork.com" }
+      ],
+      "destination": "https://www.luxiousnetwork.com/vote/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "rules.luxiousnetwork.com" }
+      ],
+      "destination": "https://docs.google.com/document/d/1TWkm8EzKSWpJe4Nhh8bDEm6StCK8H5jU_AMiVednN_I/edit?usp=sharing",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "roadmap.luxiousnetwork.com" }
+      ],
+      "destination": "https://docs.google.com/document/d/1dYsdfx76n5VGUWHOTvA1Up6LWoEnCYy0m3dHhlE2w3k/edit?usp=sharing",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "store.luxiousnetwork.com" }
+      ],
+      "destination": "https://luxiousnetwork.com/store",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "shop.luxiousnetwork.com" }
+      ],
+      "destination": "https://luxiousnetwork.com/store",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "discord.luxiousnetwork.com" }
+      ],
+      "destination": "https://discord.gg/wEVtT9g4xt",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        { "type": "host", "value": "luxiouslabs.net" }
+      ],
+      "destination": "https://www.luxiousnetwork.com",
+      "permanent": true
+    }
+  ]
+}
